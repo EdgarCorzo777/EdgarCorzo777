@@ -5,7 +5,7 @@ Hello world, I'm a coder learning Software Develop at Riwi. I'm really enjoying 
 - 🤖​ Passionate about AI.
 - 👾​ Full gamer.
 - ⚽​ Passionate about soccer and TV-Shows.
-- ​🎮​ In my free time I'm currently playing Resident Evil 3 and practicing my programming logic.
+- ​🎮​ In my free time I'm currently playing Resident Evil 4 and practicing my programming logic.
 
 
   
